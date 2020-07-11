@@ -1,0 +1,39 @@
+h1 {
+	text-align: center;
+}
+td {
+	border:1px solid black;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+
+/*	margin-left: 50px;*/
+}
+table {
+	margin: 0 auto;
+	border-spacing: 0px;
+}
+#a {
+	border-left: 0px;
+	border-top: 0px;
+}#b {
+	border-top: 0px;
+}#c {
+	border-right: 0px;
+	border-top: 0px;
+}#d {
+	border-left: 0px;
+}#f {
+	border-right: 0px;
+}
+#g {
+	border-left: 0px;
+	border-bottom: 0px;
+}
+#h {
+	border-bottom: 0px;
+}
+#i {
+	border-right: 0px;
+	border-bottom: 0px;
+}

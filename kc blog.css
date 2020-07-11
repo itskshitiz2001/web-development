@@ -1,0 +1,51 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	border :20px solid #bdc3c7;
+	margin:auto	;
+	margin-top: 1%;
+	width: 60%; 
+	height:	400%;
+	/*background :url("https://seriesturkish.com/uploads/2020/06/bizimhikaye-y323-642x320.jpg");
+	background-repeat: no-repeat;	
+	background-size: cover;
+	background-image:
+	-webkit-filter: blur(4px);
+	filter :blur(4px);
+	} */}
+ h4 {
+ 	letter-spacing: 3px;
+	color: #3498db;
+	margin-left: 5%;
+}
+h1 {
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+.sideborder {
+	border-left: 5px solid lightgray;
+	padding-left: 5px; 
+
+	margin-left: 5%;
+	margin-right: 3%;
+}
+.others {
+	margin-left: 5%;
+	margin-right: 3%;
+}
+.spanning {
+	font-size :20px;
+}
+li {
+	margin-left: 2%;
+	margin-right: 3%;
+}
+
+hr{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 90%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}

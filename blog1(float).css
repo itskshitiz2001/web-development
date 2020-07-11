@@ -1,0 +1,24 @@
+img {
+    width :30%;
+    float: left;
+    margin :1.66%;
+}
+h1 {
+    font-family: 'Bangers', cursive;
+    margin-left: 1.66%;
+    font-weight: normal;
+    color: #000000;
+    border-bottom: 1px solid lightgray; 
+    padding: 20px;
+    width:27%; 
+}
+span#a {
+    color: #f56342;
+}
+span#c {
+    color: #e6c232;
+}
+/*span#b {
+    color: #000000;
+}
+*/
